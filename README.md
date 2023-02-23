@@ -35,7 +35,7 @@ I'm interested in Cyber Security and love to explore different stuff.
 
 - 💞️ I’m looking to collaborate on opensource.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyal-jain-559489214/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyal-jain-559489214/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyaljaiin22@gmail.com)
 
 
 ---
