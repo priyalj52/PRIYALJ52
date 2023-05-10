@@ -47,18 +47,30 @@ I'm interested in Cyber Security and love to explore different stuff.
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt='python' width='40' height='40'/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JAVSCRIPT" alt="JAVASCRIPT" width="40" height="40"/>&nbsp;
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JAVSCRIPT" alt="JAVASCRIPT" width="40" height="40"/>&nbsp;
+  </div>
+  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
- 
+   <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" title="REACTJS" alt="ReactJS" width="40" height="40"/>&nbsp;
+ </div>
+ <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+   <img src="https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo-thumbnail.png" title="MUI" alt="MUI" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQUERY" alt="JQUERY" width="40" height="40"/>&nbsp;
+   <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo-thumbnail.png" title="TAILWINDCSS" alt="TAILWINDCSS" width="40" height="40"/>&nbsp;
+  </div>
+  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NODEJS" alt="NODEJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+   <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" title="MONGODB" alt="MONGODB" width="40" height="40" />&nbsp;
+ <img src="https://w7.pngwing.com/pngs/192/492/png-transparent-git-bash-hd-logo-thumbnail.png" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
+
+
 </div>
 
+ 
 ---
 
 ### :fire: My Stats :
